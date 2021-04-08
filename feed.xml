@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0" encoding="UTF-8">
+   <channel>
+      
+        <title>På Tråden</title>
+        <link>http://0.0.0.0:4000</link>
+        <pubDate>2021-04-08 15:16:46 +0200</pubDate>
+        <description>I "På Tråden" diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
+        <language>sv</language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:subtitle />
+        <itunes:author>Knightec Dewire</itunes:author>
+        <itunes:summary>I "På Tråden" diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</itunes:summary>
+        <itunes:image href="http://0.0.0.0:4000/assets/images/albumart.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>web development,ruby,javascript,rails,back-end,front-end,app development,graphql,developer,swedish</itunes:keywords>
+        <itunes:owner>
+           <itunes:name>Knightec Dewire</itunes:name>
+           <itunes:email>pa.traden@knightec.se</itunes:email>
+        </itunes:owner>
+        <podcast:locked email="pa.traden@knightec.se">yes</podcast:locked>
+        <itunes:category text="Technology" />
+        <itunes:category text="News">
+           <itunes:category text="Tech News" />
+        </itunes:category>
+      
+
+      
+      <item>
+         <title>001: På Tråden</title>
+         <link>http://0.0.0.0:4000/podcast/2021/04/08/01-pa-traden.html</link>
+         <guid isPermaLink="false">57febea4-ef42-426a-bdbf-7d9dde992cc8</guid>
+         <pubDate>2021-04-08 15:16:46 +0200</pubDate>
+         <author>Knightec Dewire</author>
+         <enclosure url="http://0.0.0.0:4000/assets/media/001-pa-traden.mp3" length="95605038" type="audio/mpeg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <itunes:author>Knightec Dewire</itunes:author>
+         <itunes:subtitle>Det första avsnittet!
+Peter och Jeger sätter sig i Dewire:s lunchrum och snackar om precis allt de
+håller på med.
+Jeger delar en del saker som händer inom mySQL och Peter
+berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.
+</itunes:subtitle>
+         <itunes:duration>2390.0</itunes:duration>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:image href="http://0.0.0.0:4000/assets/images/albumart.jpg" />
+         <description>Det första avsnittet!
+Peter och Jeger sätter sig i Dewire:s lunchrum och snackar om precis allt de
+håller på med.
+Jeger delar en del saker som händer inom mySQL och Peter
+berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.
+
+
+
+I avsnitet
+
+Ruby on Rails
+Logging &amp; tracing genom New relic
+JBoss
+MimeMagic paj
+Vertex asynkron ramvärk
+PGBouncer postgres magi
+Hibernate Data i Java
+Vitess databasklustringssystem 
+</description>
+         <itunes:keywords>rails java sql postgres mysql developers dewire</itunes:keywords>
+         <content:encoded><![CDATA[<p>Det första avsnittet!
+Peter och Jeger sätter sig i Dewire:s lunchrum och snackar om precis allt de
+håller på med.<br />
+Jeger delar en del saker som händer inom mySQL och Peter
+berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.</p>
+
+<!--more-->
+
+<h2 id="i-avsnitet">I avsnitet</h2>
+
+<p><a href="https://rubyonrails.org/" target="\_blank">Ruby on Rails</a><br />
+<a href="https://docs.newrelic.com/docs/integrations/kubernetes-integration/installation/kubernetes-integration-install-configure/" target="\_blank">Logging &amp; tracing genom New relic</a><br />
+<a href="https://www.jboss.org/" target="\_blank">JBoss</a><br />
+<a href="https://dev.to/cseeman/what-s-up-with-mimemagic-breaking-everything-he1" target="\_blank">MimeMagic paj</a><br />
+<a href="https://vertx.io" target="\_blank">Vertex asynkron ramvärk</a><br />
+<a href="https://www.pgbouncer.org/" target="\_blank">PGBouncer postgres magi</a><br />
+<a href="https://hibernate.org/" target="\_blank">Hibernate Data i Java</a><br />
+<a href="https://vitess.io/" target="\_blank">Vitess databasklustringssystem </a></p>
+]]></content:encoded>
+         <itunes:summary><![CDATA[<p>Det första avsnittet!
+Peter och Jeger sätter sig i Dewire:s lunchrum och snackar om precis allt de
+håller på med.<br />
+Jeger delar en del saker som händer inom mySQL och Peter
+berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.</p>
+
+<!--more-->
+
+<h2 id="i-avsnitet">I avsnitet</h2>
+
+<p><a href="https://rubyonrails.org/" target="\_blank">Ruby on Rails</a><br />
+<a href="https://docs.newrelic.com/docs/integrations/kubernetes-integration/installation/kubernetes-integration-install-configure/" target="\_blank">Logging &amp; tracing genom New relic</a><br />
+<a href="https://www.jboss.org/" target="\_blank">JBoss</a><br />
+<a href="https://dev.to/cseeman/what-s-up-with-mimemagic-breaking-everything-he1" target="\_blank">MimeMagic paj</a><br />
+<a href="https://vertx.io" target="\_blank">Vertex asynkron ramvärk</a><br />
+<a href="https://www.pgbouncer.org/" target="\_blank">PGBouncer postgres magi</a><br />
+<a href="https://hibernate.org/" target="\_blank">Hibernate Data i Java</a><br />
+<a href="https://vitess.io/" target="\_blank">Vitess databasklustringssystem </a></p>
+]]></itunes:summary>
+      </item>
+      
+
+   </channel>
+</rss>
