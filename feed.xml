@@ -5,12 +5,12 @@
         <title>På Tråden</title>
         <link>https://patraden.knightec.se</link>
         <pubDate>2021-04-12 12:00:00 +0200</pubDate>
-        <description>I "På Tråden" diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
+        <description>I På Tråden diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
         <language>sv</language>
         <itunes:type>episodic</itunes:type>
         <itunes:subtitle />
         <itunes:author>Knightec Dewire</itunes:author>
-        <itunes:summary>I "På Tråden" diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</itunes:summary>
+        <itunes:summary>I På Tråden diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</itunes:summary>
         <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <itunes:keywords>web development,ruby,javascript,rails,back-end,front-end,app development,graphql,developer,swedish</itunes:keywords>
@@ -32,7 +32,7 @@
          <guid isPermaLink="false">57febea4-ef42-426a-bdbf-7d9dde992cc8</guid>
          <pubDate>2021-04-12 12:00:00 +0200</pubDate>
          <author>Knightec Dewire</author>
-         <enclosure url="https://patraden.knightec.se/assets/media/001-pa-traden.mp3" length="95605038" type="audio/mpeg" />
+         <enclosure url="https://patraden.knightec.se/assets/media/001-pa-traden.mp3" length="86265198" type="audio/mpeg" />
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:author>Knightec Dewire</itunes:author>
          <itunes:subtitle>Det första avsnittet!
@@ -41,7 +41,7 @@ håller på med.
 Jeger delar en del saker som händer inom mySQL och Peter
 berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.
 </itunes:subtitle>
-         <itunes:duration>2390.0</itunes:duration>
+         <itunes:duration>2156.0</itunes:duration>
          <itunes:explicit>no</itunes:explicit>
          <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
          <description>Det första avsnittet!
@@ -56,7 +56,7 @@ disclaimer:
 
 ljudkvaliteten är inte 100% perfekt, ljudet i framtida avsnitt kommer att förbättras ;).
 
-I avsnitet
+I avsnittet
 
 Ruby on Rails
 Logging &amp; tracing genom New relic
@@ -80,7 +80,7 @@ berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.</p>
 
 <p>ljudkvaliteten är inte 100% perfekt, ljudet i framtida avsnitt kommer att förbättras ;).</p>
 
-<h2 id="i-avsnitet">I avsnitet</h2>
+<h2 id="i-avsnittet">I avsnittet</h2>
 
 <p><a href="https://rubyonrails.org/" target="\_blank">Ruby on Rails</a><br />
 <a href="https://docs.newrelic.com/docs/integrations/kubernetes-integration/installation/kubernetes-integration-install-configure/" target="\_blank">Logging &amp; tracing genom New relic</a><br />
@@ -103,7 +103,7 @@ berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.</p>
 
 <p>ljudkvaliteten är inte 100% perfekt, ljudet i framtida avsnitt kommer att förbättras ;).</p>
 
-<h2 id="i-avsnitet">I avsnitet</h2>
+<h2 id="i-avsnittet">I avsnittet</h2>
 
 <p><a href="https://rubyonrails.org/" target="\_blank">Ruby on Rails</a><br />
 <a href="https://docs.newrelic.com/docs/integrations/kubernetes-integration/installation/kubernetes-integration-install-configure/" target="\_blank">Logging &amp; tracing genom New relic</a><br />
