@@ -4,13 +4,13 @@
       
         <title>På Tråden</title>
         <link>https://patraden.knightec.se</link>
-        <pubDate>2021-04-12 12:00:00 +0200</pubDate>
-        <description>I På Tråden diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
+        <pubDate>2021-04-25 06:00:00 +0200</pubDate>
+        <description>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
         <language>sv</language>
         <itunes:type>episodic</itunes:type>
         <itunes:subtitle />
         <itunes:author>Knightec Dewire</itunes:author>
-        <itunes:summary>I På Tråden diskuterar Peter van der Meulen och Jeger Ibrahim varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</itunes:summary>
+        <itunes:summary>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</itunes:summary>
         <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <itunes:keywords>web development,ruby,javascript,rails,back-end,front-end,app development,graphql,developer,swedish</itunes:keywords>
@@ -113,6 +113,84 @@ berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.</p>
 <a href="https://www.pgbouncer.org/" target="\_blank">PGBouncer postgres magi</a><br />
 <a href="https://hibernate.org/" target="\_blank">Hibernate Data i Java</a><br />
 <a href="https://vitess.io/" target="\_blank">Vitess databasklustringssystem </a></p>
+]]></itunes:summary>
+      </item>
+      
+      <item>
+         <title>002: Apropå Git</title>
+         <link>https://patraden.knightec.se/podcast/2021/04/25/25-apropa-git.html</link>
+         <guid isPermaLink="false">c2f028fd-1cbc-4994-bd3f-ab147a616700</guid>
+         <pubDate>2021-04-25 06:00:00 +0200</pubDate>
+         <author>Knightec Dewire</author>
+         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/002-apropa-git.mp3" length="103495245" type="audio/mpeg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <itunes:author>Knightec Dewire</itunes:author>
+         <itunes:subtitle>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!
+</itunes:subtitle>
+         <itunes:duration>2581.0</itunes:duration>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
+         <description>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!
+
+
+
+I avsnittet
+
+Daresay
+Rubocop
+Tauri
+Electron
+Microsoft adopterar Rust
+Linux och rust
+K8S klient i ruby
+Git Worktree
+Lefthook och “commit message” formatering
+Git ReReRe
+Git log pickaxe
+Elixir Supervisors
+</description>
+         <itunes:keywords>rails java sql active-record elixir rust</itunes:keywords>
+         <content:encoded><![CDATA[<p>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!</p>
+
+<!--more-->
+
+<h2 id="i-avsnittet">I avsnittet</h2>
+
+<p><a href="https://daresay.co/" target="\_blank">Daresay</a><br />
+<a href="https://github.com/rubocop/rubocop" target="\_blank">Rubocop</a><br />
+<a href="https://tauri.studio/en/" target="\_blank">Tauri</a><br />
+<a href="https://www.electronjs.org/" target="\_blank">Electron</a><br />
+<a href="https://medium.com/the-innovation/how-microsoft-is-adopting-rust-e0f8816566ba" target="\_blank">Microsoft adopterar Rust</a><br />
+<a href="https://arstechnica.com/gadgets/2021/03/linus-torvalds-weighs-in-on-rust-language-in-the-linux-kernel/" target="\_blank">Linux och rust</a><br />
+<a href="https://github.com/kontena/k8s-client" target="\_blank">K8S klient i ruby</a><br />
+<a href="https://git-scm.com/docs/git-worktree" target="\_blank">Git Worktree</a><br />
+<a href="https://github.com/evilmartians/lefthook/blob/master/docs/full_guide.md#managing-scripts" target="\_blank">Lefthook och “commit message” formatering</a><br />
+<a href="https://git-scm.com/docs/git-rerere" target="\_blank">Git ReReRe</a><br />
+<a href="https://git-scm.com/book/en/v2/Git-Tools-Searching#_git_log_searching" target="\_blank">Git log pickaxe</a>
+<a href="https://hexdocs.pm/elixir/Supervisor.html" target="\_blank">Elixir Supervisors</a></p>
+]]></content:encoded>
+         <itunes:summary><![CDATA[<p>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!</p>
+
+<!--more-->
+
+<h2 id="i-avsnittet">I avsnittet</h2>
+
+<p><a href="https://daresay.co/" target="\_blank">Daresay</a><br />
+<a href="https://github.com/rubocop/rubocop" target="\_blank">Rubocop</a><br />
+<a href="https://tauri.studio/en/" target="\_blank">Tauri</a><br />
+<a href="https://www.electronjs.org/" target="\_blank">Electron</a><br />
+<a href="https://medium.com/the-innovation/how-microsoft-is-adopting-rust-e0f8816566ba" target="\_blank">Microsoft adopterar Rust</a><br />
+<a href="https://arstechnica.com/gadgets/2021/03/linus-torvalds-weighs-in-on-rust-language-in-the-linux-kernel/" target="\_blank">Linux och rust</a><br />
+<a href="https://github.com/kontena/k8s-client" target="\_blank">K8S klient i ruby</a><br />
+<a href="https://git-scm.com/docs/git-worktree" target="\_blank">Git Worktree</a><br />
+<a href="https://github.com/evilmartians/lefthook/blob/master/docs/full_guide.md#managing-scripts" target="\_blank">Lefthook och “commit message” formatering</a><br />
+<a href="https://git-scm.com/docs/git-rerere" target="\_blank">Git ReReRe</a><br />
+<a href="https://git-scm.com/book/en/v2/Git-Tools-Searching#_git_log_searching" target="\_blank">Git log pickaxe</a>
+<a href="https://hexdocs.pm/elixir/Supervisor.html" target="\_blank">Elixir Supervisors</a></p>
 ]]></itunes:summary>
       </item>
       
