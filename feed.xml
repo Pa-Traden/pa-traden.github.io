@@ -125,13 +125,13 @@ berättar om MimeMagic som pajar allt inom Ruby on Rails just nu.</p>
          <enclosure url="https://d3escsfxfzn25u.cloudfront.net/002-apropa-git.mp3" length="103495245" type="audio/mpeg" />
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:author>Knightec Dewire</itunes:author>
-         <itunes:subtitle>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+         <itunes:subtitle>En ny gruppmedlem, Kim från Daresay deltar i diskussionen!
 Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!
 </itunes:subtitle>
          <itunes:duration>2581.0</itunes:duration>
          <itunes:explicit>no</itunes:explicit>
          <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
-         <description>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+         <description>En ny gruppmedlem, Kim från Daresay deltar i diskussionen!
 Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!
 
 
@@ -152,7 +152,7 @@ Git log pickaxe
 Elixir Supervisors
 </description>
          <itunes:keywords>rails java sql active-record elixir rust</itunes:keywords>
-         <content:encoded><![CDATA[<p>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+         <content:encoded><![CDATA[<p>En ny gruppmedlem, Kim från Daresay deltar i diskussionen!
 Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!</p>
 
 <!--more-->
@@ -172,7 +172,7 @@ Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!</p>
 <a href="https://git-scm.com/book/en/v2/Git-Tools-Searching#_git_log_searching" target="\_blank">Git log pickaxe</a>
 <a href="https://hexdocs.pm/elixir/Supervisor.html" target="\_blank">Elixir Supervisors</a></p>
 ]]></content:encoded>
-         <itunes:summary><![CDATA[<p>En ny lagmedlem, Kim från Daresay hänger med i diskussionen!
+         <itunes:summary><![CDATA[<p>En ny gruppmedlem, Kim från Daresay deltar i diskussionen!
 Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!</p>
 
 <!--more-->
