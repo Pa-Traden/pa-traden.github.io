@@ -14,6 +14,7 @@
         <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <itunes:keywords>web development,ruby,javascript,rails,back-end,front-end,app development,graphql,developer,swedish</itunes:keywords>
+        <copyright>&#xA9; 2021 Knightec AB</copyright>
         <itunes:owner>
            <itunes:name>Knightec Dewire</itunes:name>
            <itunes:email>pa.traden@knightec.se</itunes:email>
