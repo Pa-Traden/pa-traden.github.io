@@ -5,12 +5,12 @@
         <title>På Tråden</title>
         <link>https://patraden.knightec.se</link>
         <pubDate>2021-04-25 06:00:00 +0200</pubDate>
-        <description>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
+        <description>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varannan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
         <language>sv</language>
         <itunes:type>episodic</itunes:type>
         <itunes:subtitle />
         <itunes:author>Knightec Dewire</itunes:author>
-        <itunes:summary>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varanan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</itunes:summary>
+        <itunes:summary>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varannan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</itunes:summary>
         <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <itunes:keywords>web development,ruby,javascript,rails,back-end,front-end,app development,graphql,developer,swedish</itunes:keywords>
