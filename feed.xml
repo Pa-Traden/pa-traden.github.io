@@ -4,6 +4,7 @@
       
         <title>På Tråden</title>
         <link>https://patraden.knightec.se</link>
+        <atom:link href="https://patraden.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
         <pubDate>2021-05-09 06:00:00 +0200</pubDate>
         <description>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varannan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
         <language>sv</language>
