@@ -73,7 +73,7 @@ I avsnittet
   Vitess databasklustringssystem 
 
 </description>
-         <itunes:keywords>rails, java, sql, postgres, mysql, developers, dewire</itunes:keywords>
+         <itunes:keywords>rails,java,sql,postgres,mysql,developers,dewire</itunes:keywords>
          <content:encoded><![CDATA[<p>Det första avsnittet!
 Peter och Jeger sätter sig i Dewire:s lunchrum och snackar om precis allt de
 håller på med.<br />
@@ -163,7 +163,7 @@ I avsnittet
   Elixir Supervisors
 
 </description>
-         <itunes:keywords>rails, java, sql, active-record, elixir, rust</itunes:keywords>
+         <itunes:keywords>rails,java,sql,active-record,elixir,rust</itunes:keywords>
          <content:encoded><![CDATA[<p>En ny gruppmedlem, Kim från Daresay deltar i diskussionen! Teamet snackar om uppdateringen av rails 5.2. till 6, Hibernate och elixir!</p>
 
 <!--more-->
@@ -247,7 +247,7 @@ I avsnittet
   Liquid template lanugage
 
 </description>
-         <itunes:keywords>rails, java, sql, active-record, rust, jekyll</itunes:keywords>
+         <itunes:keywords>rails,java,sql,active-record,rust,jekyll</itunes:keywords>
          <content:encoded><![CDATA[<p>Jeger snackar om alternativa SQL adaptrar till Java, Kim fortsätter uppdatera och kommer att bygga ett smart hem och Peter snackar om hans “gemstädning”.</p>
 
 <!--more-->
