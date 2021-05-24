@@ -5,7 +5,7 @@
         <title>På Tråden</title>
         <link>https://patraden.knightec.se</link>
         <atom:link href="https://patraden.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>2021-05-09 06:00:00 +0200</pubDate>
+        <pubDate>2021-05-24 06:00:00 +0200</pubDate>
         <description>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varannan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
         <language>sv</language>
         <itunes:type>episodic</itunes:type>
@@ -292,6 +292,88 @@ I avsnittet
   <li><a href="https://www.sitepoint.com/6-static-blog-generators-arent-jekyll/" target="\_blank">Alternativ till Jekyll</a></li>
   <li><a href="https://github.com/features/actions" target="\_blank">Github Actions</a></li>
   <li><a href="https://shopify.github.io/liquid" target="\_blank">Liquid template lanugage</a></li>
+</ul>
+]]></itunes:summary>
+      </item>
+      
+      <item>
+         <title>004: Will it build?</title>
+         <itunes:episode>004</itunes:episode>
+         <link>https://patraden.knightec.se/podcast/2021/05/24/will-it-build.html</link>
+         <atom:link href="https://patraden.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
+         <guid isPermaLink="false">cdfa5c11-d867-4835-9133-3b024f51a1ae</guid>
+         <pubDate>Mon, 24 May 2021 06:00:00 +0200</pubDate>
+         <author>Knightec Dewire</author>
+         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/004-will-it-build.mp3" length="121215930" type="audio/mpeg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <itunes:author>Knightec Dewire</itunes:author>
+         <itunes:subtitle>“Jode” hänger med på Podden, Jeger snackar om Maven, Kim jobbar med nyanställda och Peter mobprogramerar
+</itunes:subtitle>
+         <itunes:duration>50:24</itunes:duration>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:image href="https://patraden.knightec.se/assets/images/albumart.jpg" />
+         <description>“Jode” hänger med på Podden, Jeger snackar om Maven, Kim jobbar med nyanställda och Peter mobprogramerar
+
+
+
+I avsnittet
+
+
+  Maven
+  Gradle
+  ZomboDB
+  Elasticsearch &amp; OpenSearch
+  Cassandra
+  PowerBi
+  Daresay Teamwork Kit
+  Visual Studio Live Share
+  Tuple Mob Programming
+  MobTimer
+  SVT om mobprogramering
+  ActiveModel::Serializers
+
+</description>
+         <itunes:keywords>rails,java,sql,active-model,maven,iot</itunes:keywords>
+         <content:encoded><![CDATA[<p>“Jode” hänger med på Podden, Jeger snackar om Maven, Kim jobbar med nyanställda och Peter mobprogramerar</p>
+
+<!--more-->
+
+<h2 id="i-avsnittet">I avsnittet</h2>
+
+<ul>
+  <li><a href="https://maven.apache.org/" target="\_blank">Maven</a></li>
+  <li><a href="https://gradle.org/" target="\_blank">Gradle</a></li>
+  <li><a href="https://www.zombodb.com/" target="\_blank">ZomboDB</a></li>
+  <li><a href="https://www.elastic.co/what-is/opensearch" target="\_blank">Elasticsearch &amp; OpenSearch</a></li>
+  <li><a href="Casandra" target="\_blank">Cassandra</a></li>
+  <li><a href="https://powerbi.microsoft.com/en-us/" target="\_blank">PowerBi</a></li>
+  <li><a href="https://daresay.co/teamwork-kit/" target="\_blank">Daresay Teamwork Kit</a></li>
+  <li><a href="https://visualstudio.microsoft.com/services/live-share/" target="\_blank">Visual Studio Live Share</a></li>
+  <li><a href="https://tuple.app/" target="\_blank">Tuple Mob Programming</a></li>
+  <li><a href="https://agility.jahed.dev/" target="\_blank">MobTimer</a></li>
+  <li><a href="ttps://medium.com/the-svt-tech-blog/100-of-the-team-in-a-mob-for-12-months-taking-mob-programming-a-couple-of-steps-further-3335f7994baf" target="\_blank">SVT om mobprogramering</a></li>
+  <li><a href="https://github.com/rails-api/active_model_serializers" target="\_blank">ActiveModel::Serializers</a></li>
+</ul>
+]]></content:encoded>
+         <itunes:summary><![CDATA[<p>“Jode” hänger med på Podden, Jeger snackar om Maven, Kim jobbar med nyanställda och Peter mobprogramerar</p>
+
+<!--more-->
+
+<h2 id="i-avsnittet">I avsnittet</h2>
+
+<ul>
+  <li><a href="https://maven.apache.org/" target="\_blank">Maven</a></li>
+  <li><a href="https://gradle.org/" target="\_blank">Gradle</a></li>
+  <li><a href="https://www.zombodb.com/" target="\_blank">ZomboDB</a></li>
+  <li><a href="https://www.elastic.co/what-is/opensearch" target="\_blank">Elasticsearch &amp; OpenSearch</a></li>
+  <li><a href="Casandra" target="\_blank">Cassandra</a></li>
+  <li><a href="https://powerbi.microsoft.com/en-us/" target="\_blank">PowerBi</a></li>
+  <li><a href="https://daresay.co/teamwork-kit/" target="\_blank">Daresay Teamwork Kit</a></li>
+  <li><a href="https://visualstudio.microsoft.com/services/live-share/" target="\_blank">Visual Studio Live Share</a></li>
+  <li><a href="https://tuple.app/" target="\_blank">Tuple Mob Programming</a></li>
+  <li><a href="https://agility.jahed.dev/" target="\_blank">MobTimer</a></li>
+  <li><a href="ttps://medium.com/the-svt-tech-blog/100-of-the-team-in-a-mob-for-12-months-taking-mob-programming-a-couple-of-steps-further-3335f7994baf" target="\_blank">SVT om mobprogramering</a></li>
+  <li><a href="https://github.com/rails-api/active_model_serializers" target="\_blank">ActiveModel::Serializers</a></li>
 </ul>
 ]]></itunes:summary>
       </item>
