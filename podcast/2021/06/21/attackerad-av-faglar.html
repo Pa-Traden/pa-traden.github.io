@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>På Tråden - 005: Attackerad av fåglar</title>
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.6.4/plyr.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#d61818">
+  <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#74ada6">
+  <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- Facebook Og -->
+  <meta content="website" property="og:type">
+  <meta content="På Tråden - Attackerad av fåglar" property="og:title">
+  <meta content="Peter snackar om Feature toggles, Jeger om Scala och Kim om vivification, medans fåglar skriker på fönsterbänken." property="og:description">
+  <meta content="https://patraden.knightec.se/assets/images/socialcard.jpg" property="og:image">
+  <meta content="https://patraden.knightec.se/podcast/2021/06/21/attackerad-av-faglar.html" property="og:url">
+  <meta content="På Tråden" property="og:site_name">
+  <!-- Twitter cards -->
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="@DewirePaTraden" name="twitter:site">
+  <meta content="@DewirePaTraden" name="twitter:creator">
+  <meta content="På Tråden - Attackerad av fåglar" name="twitter:title">
+  <meta content="Peter snackar om Feature toggles, Jeger om Scala och Kim om vivification, medans fåglar skriker på fönsterbänken." name="twitter:description">
+  <meta content="https://patraden.knightec.se/assets/images/socialcard.jpg" name="twitter:image">
+</head>
+<body>
+  <header>
+    <div class="header-inner"></div>
+    <div class="top-navigation">
+      <div class="content-container">
+        <div class="logo">
+          <a href="/">
+            <img src="/assets/images/logo.svg" alt="" height="20">
+          </a>
+        </div>
+
+        <div class="navigation-links _posts/2021-06-21-attackerad-av-faglar.markdown">
+          <ul>
+            <li><a href="/" class="home">Avsnitt</a></li>
+            <li><a href="/kontakt" class="contact">Kontakt</a></li>
+            <li><a href="https://knightec.se" target="_blank">Produced by Knightec</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="header-title">
+      <h1>
+        På Tråden
+      </h1>
+    </div>
+  </header>
+
+  <section class="social-links">
+    <div class="content-container">
+      <ul>
+        <li>
+          <a href="https://podcasts.apple.com/us/podcast/på-tråden/id1564664099" title="På Tråden på Google" target="_blank">
+            <span class="logo"><img src="/assets/images/social-icons/apple.svg" alt="" width="20"></span>
+            <span class="title">Apple Podcasts</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wYXRyYWRlbi5rbmlnaHRlYy5zZS9mZWVkLnhtbA?sa=X&ved=0CAMQ9sEGahcKEwjgmsS8n5vwAhUAAAAAHQAAAAAQCQ" title="På Tråden på Apple Podcasts" target="_blank">
+            <span class="logo"><img src="/assets/images/social-icons/google.svg" alt="" width="20"></span>
+            <span class="title">Google Podcasts</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://open.spotify.com/show/3A2fj6rPOLulqHuwGsgoWq" title="På Tråden på spotify" target="_blank">
+            <span class="logo"><img src="/assets/images/social-icons/spotify.svg" alt="" width="20"></span>
+            <span class="title">Spotify</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://instagram.com/pa.traden" title="Instagram" target="_blank">
+            <span class="logo"><img src="/assets/images/social-icons/instagram.svg" alt="" width="20"></span>
+            <span class="title">Instagram</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/DewirePaTraden" title="Twitter" target="_blank">
+            <span class="logo"><img src="/assets/images/social-icons/twitter.svg" alt="" width="20"></span>
+            <span class="title">Twitter</span>
+          </a>
+        </li>
+        <li>
+          <a href="/feed.xml" title="RSS feed" target="_blank">
+            <span class="logo"><img src="/assets/images/social-icons/rss.svg" alt="" width="20"></span>
+            <span class="title">RSS</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="main-content">
+    <div class="post-page-container">
+  <div class="content-container">
+    <h1>005: Attackerad av fåglar</h1>
+    <div class="date">
+      21 Juni 2021
+      ||
+      54 minuter 43 sekunder
+    </div>
+
+    <audio id="player" class="media-player" controls>
+      <source src="https://d3escsfxfzn25u.cloudfront.net/005-attackerad-av-faglar.mp3" type="audio/mp3" />
+      <source src="https://d3escsfxfzn25u.cloudfront.net/005-attackerad-av-faglar.ogg" type="audio/ogg" />
+    </audio>
+    <!-- Music player js -->
+    <script src="https://cdn.plyr.io/3.6.4/plyr.polyfilled.js"></script>
+    <script>
+      const player = new Plyr('#player');
+    </script>
+
+    <div class="post-content">
+      <p>Peter snackar om Feature toggles, Jeger om Scala och Kim om vivification, medans fåglar skriker på fönsterbänken.</p>
+
+<!--more-->
+
+<h2 id="i-avsnittet">I avsnittet</h2>
+
+<ul>
+  <li><a href="https://www.urbanautomaton.com/blog/2020/11/04/rails-autoloading-heaven/" target="\_blank">vivification</a></li>
+  <li><a href="https://www.archunit.org/" target="\_blank">est framework Java</a></li>
+  <li><a href="https://github.com/rspec/rspec-rails" target="\_blank">RSpec-rails</a></li>
+  <li><a href="https://www.scala-lang.org/download/scala3.htm" target="\_blank">Scala 3.0</a></li>
+  <li><a href="https://kotlinlang.org/docs/whatsnew15.html" target="\_blank">Kotlin 1.5</a></li>
+  <li><a href="https://sysgears.com/articles/how-and-why-twitter-uses-scala/" target="\_blank">twitter och scala</a></li>
+  <li><a href="https://github.com/twitter/finatra" target="\_blank">Finägel (Twitter Finatra)</a></li>
+  <li><a href="https://github.com/prisma/prisma" target="\_blank">Prisma Graphql in scala</a></li>
+  <li><a href="https://nim-lang.org/" target="\_blank">Nim språk</a></li>
+  <li><a href="https://github.com/sharkdp/bat" target="\_blank">batcat </a></li>
+  <li><a href="https://git.hendrikpeter.net/hendrikpeter/pico-vim" target="\_blank">Peters picovim</a></li>
+  <li><a href="https://github.com/HendrikPetertje/neovim-starter" target="\_blank">petrers picovim lite</a></li>
+  <li><a href="https://youtu.be/C3GvXp4Detk?list=FLo6iwQn3N4dMvV0RiOH6HqQ&amp;t=663" target="\_blank">TMUX madness</a></li>
+  <li><a href="https://www.themuse.com/advice/the-event-you-should-plan-for-your-teamasap" target="\_blank">hackday</a></li>
+  <li><a href="https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html" target="\_blank">Phoenix LiveView</a></li>
+</ul>
+
+    </div>
+  </div>
+</div>
+  </section>
+
+  <footer>
+  </footer>
+</body>
+</html>
