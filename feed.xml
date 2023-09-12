@@ -5,7 +5,7 @@
         <title>På Tråden</title>
         <link>https://patraden.knightec.se</link>
         <atom:link href="https://patraden.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>2021-06-21 06:00:00 +0200</pubDate>
+        <pubDate>2023-09-12 12:00:00 +0200</pubDate>
         <description>I På Tråden diskuterar Peter van der Meulen, Jeger Ibrahim och Kim Fransman varannan vecka deras erfarenheter och utmaningar inom Java, Ruby, JavaScript, Rust, MySql, Postgres eller vad som dyker upp på tråden ;).</description>
         <language>sv</language>
         <itunes:type>episodic</itunes:type>
@@ -466,6 +466,49 @@ I avsnittet
   <li><a href="https://www.themuse.com/advice/the-event-you-should-plan-for-your-teamasap" target="\_blank">hackday</a></li>
   <li><a href="https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html" target="\_blank">Phoenix LiveView</a></li>
 </ul>
+]]></itunes:summary>
+      </item>
+      
+      <item>
+         <title>006: Knights on Wires</title>
+         <itunes:episode>006</itunes:episode>
+         <link>https://patraden.knightec.se/podcast/2023/09/12/knights-on-wires.html</link>
+         <atom:link href="https://patraden.knightec.se/feed.xml" rel="self" type="application/rss+xml"/>
+         <guid isPermaLink="false">b15e1775-5766-4618-8bf9-237cd44da352</guid>
+         <pubDate>Tue, 12 September 2023 12:00:00 +0200</pubDate>
+         <author>Knightec Dewire</author>
+         <enclosure url="https://d3escsfxfzn25u.cloudfront.net/006-knights-on-wires.mp3" length="2589977" type="audio/mpeg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <itunes:author>Knightec Dewire</itunes:author>
+         <itunes:subtitle>På tråden blir “Knights on Wires”
+</itunes:subtitle>
+         <itunes:duration>01:05</itunes:duration>
+         <itunes:explicit>no</itunes:explicit>
+         <itunes:image href="https://patraden.knightec.se/assets/images/episode-pics/006-cover.jpg " />
+         <description>På tråden blir “Knights on Wires”
+
+
+
+Länk till den nya podden
+
+Knights on wires Pod
+</description>
+         <itunes:keywords>knights-on-wires</itunes:keywords>
+         <content:encoded><![CDATA[<p>På tråden blir “Knights on Wires”</p>
+
+<!--more-->
+
+<h2 id="länk-till-den-nya-podden">Länk till den nya podden</h2>
+
+<p><a href="https://knightsonwires.knightec.se">Knights on wires Pod</a></p>
+]]></content:encoded>
+         <itunes:summary><![CDATA[<p>På tråden blir “Knights on Wires”</p>
+
+<!--more-->
+
+<h2 id="länk-till-den-nya-podden">Länk till den nya podden</h2>
+
+<p><a href="https://knightsonwires.knightec.se">Knights on wires Pod</a></p>
 ]]></itunes:summary>
       </item>
       
